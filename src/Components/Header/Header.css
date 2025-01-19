@@ -1,0 +1,23 @@
+.headerImg{
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: 100% 100%;
+}
+.navber .logoImg {
+    height: 50px;
+}
+.navber li {
+   font-size: 20px;
+    margin-left: 30px;
+    list-style: none;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.navber li a{
+    text-decoration: none;
+    color: aliceblue;
+}
